@@ -1,0 +1,10 @@
+00000551,12-30-2011,4000001,092.88,Games,Dice & Dice Sets,Buffalo,New York,credit
+00004811,11-10-2011,4000001,180.35,Outdoor Play Equipment,Water Tables,Brownsville,Texas,credit
+00034388,09-11-2011,4000002,020.55,Team Sports,Beach Volleyball,Orange,California,cash
+00008996,11-21-2011,4000003,221.04,Outdoor Recreation,Fishing,Colorado Springs,Colorado,credit
+00009167,05-24-2011,4000003,194.94,Exercise & Fitness,Foam Rollers,El Paso,Texas,credit
+00006791,03-08-2011,4000004,152.25,Winter Sports,Snowshoeing,McKinney,Texas,credit
+00014627,08-09-2011,4000004,193.00,Gymnastics,Gymnastics Rings,Minneapolis,Minnesota,credit
+00002149,03-17-2011,4000005,173.38,Games,Bingo Sets,Durham,North Carolina,credit
+00014454,07-08-2011,4000005,134.06,Team Sports,Curling,Minneapolis,Minnesota,credit
+00023082,04-19-2011,4000006,021.73,Water Sports,Wetsuits,Columbus,Ohio,cash
